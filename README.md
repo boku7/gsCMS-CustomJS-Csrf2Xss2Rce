@@ -1,5 +1,6 @@
 ## GetSimple CMS Custom JS v0.1 - CSRF to Stored XSS to RCE
 ##### Exploit Author: Bobby Cooke (boku) & Abhishek Joshi
+##### CVE: (CVE PENDING - Sent March 2021)
 
 ![](gscms-customJS-datExploitScreencap.png)
 
